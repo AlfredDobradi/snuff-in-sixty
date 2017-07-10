@@ -1,6 +1,6 @@
 +++
 title = "Ichi The Killer"
-rt_url = "https://www.rottentomatoes.com/m/ichi_the_killer"
+rt = "https://www.rottentomatoes.com/m/ichi_the_killer"
 date = "2017-07-10T17:54:21+01:00"
 slug = "ichi_the_killer"
 poster = "jaws.jpg"

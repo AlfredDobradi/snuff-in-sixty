@@ -1,6 +1,6 @@
 +++
 title = "The Bride of Frankenstein"
-rt_url = "https://www.rottentomatoes.com/m/bride_of_frankenstein"
+rt = "https://www.rottentomatoes.com/m/bride_of_frankenstein"
 date = "2017-07-10T17:54:22+01:00"
 slug = "the_bride_of_frankenstein"
 poster = "jaws.jpg"

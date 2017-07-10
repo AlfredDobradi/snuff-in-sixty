@@ -1,6 +1,6 @@
 +++
 title = "I Spit on Your Grave"
-rt_url = "https://www.rottentomatoes.com/m/i_spit_on_your_grave"
+rt = "https://www.rottentomatoes.com/m/i_spit_on_your_grave"
 date = "2017-07-10T17:54:20+01:00"
 slug = "i_spit_on_your_grave"
 poster = "jaws.jpg"
