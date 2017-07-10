@@ -5,7 +5,7 @@ date = "2017-07-10T17:54:20+01:00"
 slug = "an_american_werewolf_in_london"
 poster = "an_american_werewolf_in_london.jpg"
 date_watched = ""
-draft = true
+draft = false
 rating = "-"
 status = "PENDING"
 +++

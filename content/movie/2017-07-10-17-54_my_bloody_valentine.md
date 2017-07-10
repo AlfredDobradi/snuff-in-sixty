@@ -5,7 +5,7 @@ date = "2017-07-10T17:54:21+01:00"
 slug = "my_bloody_valentine"
 poster = "jaws.jpg"
 date_watched = ""
-draft = true
+draft = false
 rating = "-"
 status = "PENDING"
 +++
