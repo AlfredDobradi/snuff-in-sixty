@@ -2,6 +2,10 @@ languageCode = "en-us"
 title = "Snuff in Sixty"
 baseurl = "http://snuff.overlord.wtf/"
 publishDir = "public"
+theme = "snuff"
 
 [permalinks]
 post = "/:year/:month/:title/"
+
+[params]
+subtitle = "60 horror movies in 60 days"
