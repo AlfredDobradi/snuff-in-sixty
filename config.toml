@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Snuff in Sixty"
-baseurl = "http://snuff.overlord.wtf/"
+baseurl = "http://www.snuff.wtf/"
 publishDir = "public"
 theme = "snuff"
 
