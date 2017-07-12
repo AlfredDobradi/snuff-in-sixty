@@ -10,3 +10,4 @@ post = "/:year/:month/:title/"
 [params]
 subtitle = "60 horror movies in 60 days"
 analytics = "UA-102338574-1"
+adsense = "ca-pub-7715025203840036"
