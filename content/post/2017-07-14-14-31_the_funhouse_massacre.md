@@ -1,15 +1,20 @@
 ---
 title: "The Funhouse Massacre"
-date: 2017-07-14T14:31:24+01:00
-draft: true
+date: 2017-07-16T14:31:24+01:00
+draft: false
 ---
 
-Robert Englund
-Villains
-Good guys
-Setting
-Comic relief
-gore, special fx
-family thing
-ending
+Oh boy, a movie review, this is a first! It would've been nice if I start it with a movie I like or at least know but we're here and there's no turning back. As you can see from the title, the target is The Funhouse Massacre which I saw yesterday after having it for 5 months on my Netflix list. Although I kinda liked the concept it's usually very hard to force myself to invest ~90 minutes from my free time in watching movies I haven't seen yet. Anyway, here's my two cents.
+<!--more-->
 
+First of all, since I didn't check the RT or IMDb profile of the movie I didn't know Robert Englund is in it. Oh my, it was a nice surprise. Even though he gets killed off around the 15th minute mark, he's just a sight for sore eyes as always. The reason he's there is he's the main man of an underground secret asylum which shelters the _creme la creme_ of the criminally insane who are better off without the public even knowing about them. To this merry little place arrives Ms. Quinn, a news reporter who wants to write a piece about the establishment. The good old warden shows her - and us - around and introduces the nice gentlemen: Animal the Cannibal ([E. E. Bell](http://www.imdb.com/name/nm0068171/)), Dr. Suave ([Sebastian Siegel](http://www.imdb.com/name/nm1186269/)), Rocco the Clown ([Mars Crain](http://www.imdb.com/name/nm3050597/)), the Taxidermist ([Clint Howard](http://www.imdb.com/name/nm0397212/)) and Mental Manny ([Jere Burns](http://www.imdb.com/name/nm0122716/?ref_=tt_cl_t2)). I have to say, it's not bad casting - even though Dr. Suave could've been a bit more suave. Mars Crain is so huge you believe he actually can crush you with his bare hands, Clint Howard actually looks like a deranged taxidermist and if Jere Burns would ask me to set my self ablaze to ascend, I'd gladly do it. So yeah. The casting of the bad guys was amazing.
+
+After the bad guys escape - killing the warden in the process, rip - we get to catch a glimpse of the goodies. I didn't like them as much as the evildoers unfortunately. I felt like the line delivery was really weird and the characters didn't amount to anything. Well most of them, anyway. I understand it is a slasher movie and needs a bit of comic relief, but all the goofing around threw me off a bit. Most of the characters felt like they're just there for the sake of being a victim from the beginning and it just felt awkward. I didn't dislike all the characters though, Gerrardo ([Erick Chavarria](http://www.imdb.com/name/nm2974788/)) was very funny and the romance between Morgan ([Matt Angel](http://www.imdb.com/name/nm2460402/)) and Laurie ([Renee Dorian](http://www.imdb.com/name/nm1792165/) - btw, please cast her in everything because she's so nice) was pretty good and even though I didn't like Morgan even a bit, the character progression was nicely written. I don't want to write much about the sheriff and the deputy, they were the good cop and the clumsy idiot cop cliche, again, too much comic relief sometimes.
+
+So the whole thing can be summarized in a few sentences - as most slashers, which is cool. Good guys go to the funhouse which is basically the recreation of the myths of the bad guys - Animal has his own kitchen, Taxidermist his shed, etc. (I really liked the bit when they get there and look at the props and the rooms, it was funny and very entertaining.) Anyway, the bad guys arrive, kill the actors who'd play them and take their places, open the park and start the bloodbath. Good guys arrive, most of them die, all the bad guys die. Happy end! It's nothing to write home about really - although I have to mention I hated the family sub-plot, it felt unnecessary and was wrapped up very quickly. - but it's still a bit more enjoyable somehow than most.
+
+Why? I'm not sure, but it might be the special effects, the gore, the design of the rooms. They're all very nicely done. The lighting is really nice throughout the movie and I really enjoyed the shots. I'm not really an expert in cinematography but it was something I noticed, I rewinded a few scenes a couple of times, just because I liked the angle or the movement of the camera. That is VERY uncommon for me, I usually don't do that. Then again I'm not an expert in special FX in any way, but I believed how some - very gory - things looked like so that's good right? I think these were the absolute strong points of the movie.
+
+So yeah, let's rate some movies right? I DON'T KNOW! Really. I don't know. The movie has a rating of 5.3 on [IMDb](http://www.imdb.com/title/tt4483220/) and is 64% fresh on [Rotten Tomatoes](https://www.rottentomatoes.com/m/the_funhouse_massacre) and I think the middle road between those is a fair point but it's hard because I liked so many things about it yet I know it's not a GREAT movie. I'll go with *3.6* out of *6.66*. I recommend this movie, it has something more to offer, even if I'm incapable of telling what it is.
+
+Ps. the crowd scenes when people are panicking/running away are SO SILLY. Those scenes I hated with passion.
