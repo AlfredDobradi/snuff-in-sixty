@@ -11,3 +11,8 @@ post = "/:year/:month/:title/"
 subtitle = "60 horror movies in 60 days"
 analytics = "UA-102338574-1"
 adsense = "ca-pub-7715025203840036"
+
+[params.meta]
+author = "Alfred Dobradi"
+description = "Watching 60 horror movies in 60 days. From classics, to newer gems, from a-horror to zombie flicks, covering most genres."
+twitter = "https://twitter.com/barveyhirdman"
